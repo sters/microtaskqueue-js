@@ -1,0 +1,17 @@
+{
+  "name": "microtaskqueue",
+  "version": "0.0.1",
+  "description": "microtaskqueue on your browser",
+  "main": "MicroTaskQueue.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sters/microtaskqueue-js.git"
+  },
+  "author": "sters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sters/microtaskqueue-js/issues"
+  },
+  "homepage": "https://github.com/sters/microtaskqueue-js#readme"
+}

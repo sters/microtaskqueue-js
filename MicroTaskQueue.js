@@ -1,4 +1,4 @@
-class MicroTaskQueue {
+export class MicroTaskQueue {
     constructor() {
         this.queue = [];
         this.whenLastTask = performance.now();
